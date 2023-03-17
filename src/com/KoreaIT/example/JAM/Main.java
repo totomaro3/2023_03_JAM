@@ -33,6 +33,7 @@ public class Main {
 
 				System.out.println(id + "번 글이 생성되었습니다");
 				lastArticleId++;
+				
 			} else if (cmd.equals("article list")) {
 				System.out.println("==게시물 목록==");
 
